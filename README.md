@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I´m José Román 👋
 
 <!--
 **Joseroman15/Joseroman15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
