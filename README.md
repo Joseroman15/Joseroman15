@@ -1,4 +1,6 @@
-## Hi, I´m José Román 👋
+<div align="center">
+    <h1 align="center">Hi, I´m José Román 👨🏼‍💻</h1>
+</div>
 
 <!--
 **Joseroman15/Joseroman15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
