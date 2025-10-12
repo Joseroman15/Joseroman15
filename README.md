@@ -2,7 +2,7 @@
     <h1 align="center">Hi, I´m José Román 👨🏼‍💻</h1>
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,vscode,linux,bash,git,github,kali"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github"/>
 </p>
 
 <!--
