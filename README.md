@@ -6,11 +6,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github"/>
   </p>
   <div align="center">
-    <ul>
-      <li>Front-end</li>
-      <li>Back-end</li>
-      <li>Defensive Security</li>
-    </ul>
+    <p>Front-end</p>
+    <p>Back-end</p>
+    <p>Defensive Security</p>
   </div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true" />
