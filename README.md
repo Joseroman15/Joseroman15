@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
     <h2>Hi, I´m José 👨🏻‍💻</h2>
 </div>
 <p align="center">
@@ -18,6 +19,7 @@
     <h2>Stats</h2>
 </div>
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true)
+</div>
 
 
 
