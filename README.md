@@ -2,6 +2,7 @@
   <div align="center">
     <h2>Hi, I´m José 👨🏻‍💻</h2>
   </div>
+  <br>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github" />
   </p>
