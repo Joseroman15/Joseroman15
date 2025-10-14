@@ -1,5 +1,5 @@
 <div align="center">
-    [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+    <h2>Hi, I´m José 👨🏻‍💻</h2>
 </div>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github"/>
