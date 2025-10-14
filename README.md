@@ -4,7 +4,16 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github"/>
 </p>
-<h2>About me</h2>
+<div align="center">
+    <h2>About me</h2>
+</div>
+<div align="center">
+    <ul>
+        <li>Front-end</li>
+        <li>Back-end</li>
+        <li>Defensive Security</li>
+    </ul>
+</div>
 
 
 
