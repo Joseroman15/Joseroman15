@@ -8,11 +8,17 @@
     <h2>About me</h2>
 </div>
 <div align="center">
-    <ul list-style="none">
+    <ul>
         <li>Front-end</li>
         <li>Back-end</li>
         <li>Defensive Security</li>
     </ul>
+</div>
+<div align="center">
+    <h2>Stats</h2>
+</div>
+<div align="center">
+    ![Joseroman15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true&theme=omni&cache_seconds=1800)
 </div>
 
 
