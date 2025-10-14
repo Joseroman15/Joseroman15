@@ -12,6 +12,7 @@
     <span style="color: gray;">|</span>
     <span>Defensive Security</span>
   </div>
+  <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true" />
   </p>
