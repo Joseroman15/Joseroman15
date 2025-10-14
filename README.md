@@ -8,7 +8,7 @@
     <h2>About me</h2>
 </div>
 <div align="center">
-    <ul>
+    <ul list-style="none">
         <li>Front-end</li>
         <li>Back-end</li>
         <li>Defensive Security</li>
