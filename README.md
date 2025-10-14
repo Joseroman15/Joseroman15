@@ -17,9 +17,7 @@
 <div align="center">
     <h2>Stats</h2>
 </div>
-<div align="center">
-    ![Joseroman15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true&theme=omni&cache_seconds=1800)
-</div>
+![Joseroman15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true&theme=omni&cache_seconds=1800)
 
 
 
