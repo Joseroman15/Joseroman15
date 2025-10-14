@@ -1,9 +1,14 @@
 <div align="center">
-    <h1 align="center">Hi, I´m José Román 👨🏼‍💻</h1>
+    <h2 align="center">Hi, I´m José Román 👨🏼‍💻</h2>
 </div>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github"/>
 </p>
+<div>
+    <h2>About me</h2>
+</div>
+
+
 
 <!--
 **Joseroman15/Joseroman15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
