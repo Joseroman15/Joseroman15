@@ -1,21 +1,35 @@
 <div align="center">
-  <h2>Hi, I'm José 👨🏻‍💻</h2>
-  <br>
+  <h1>Hi, I'm José Román Gómez 👨🏻‍💻</h1>
+  <p><strong>Junior Full Stack Developer & Cybersecurity Specialist (Blue Team)</strong></p>
+  <p>📍 Málaga, Spain</p>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github" />
-  </p>
-  <div style="display: flex; justify-content: center; font-weight: bold; max-width: 360px; margin: 0 auto; gap: 10px; align-items: center;">
-    <span>Front-end</span>
-    <span style="color: gray;">|</span>
-    <span>Back-end</span>
-    <span style="color: gray;">|</span>
-    <span>Defensive Security</span>
-  </div>
-  <br>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent&bg_color=0d1117&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&border_color=0d1117" />
+    <a href="https://www.linkedin.com/in/josé-román-gómez-573bb9301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:joserg291204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
+<br>
+### 🚀 About Me
+- 💻 Currently working as a **Web Developer** (PHP, JavaScript, MySQL).
+- 🛡️ Focused on **Defensive Security (Blue Team)**, SOC Analysis & DFIR.
+- 🎓 Background: **Higher Degree in Web Development (DAW)** + **Master's in Cybersecurity** + **Google Cybersecurity Cert**.
+- 🛠️ Building secure web applications and automation scripts for security operations.
+---
+### 🛠️ Tech Stack & Security Tools
+**Development & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,vscode" alt="Dev Stack" />
+</p>
+**Cybersecurity, Systems & Automation**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,py" alt="Security Stack" />
+</p>
+---
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true&theme=dark&hide_border=true&title_color=00ff7f&icon_color=00ff7f" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseroman15&layout=compact&theme=dark&hide_border=true&title_color=00ff7f" height="160" alt="Top Languages" />
+</div>
+
 
 <!--
 **Joseroman15/Joseroman15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
