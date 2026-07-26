@@ -1,6 +1,8 @@
-# ¡Hola! Soy José 👨🏻‍💻
+# ¡Hola! Soy José Román 👨🏻‍💻
 
 Desarrollador Full Stack Junior y Especialista en Ciberseguridad (Blue Team).
+
+<sub>🇬🇧 [Read in English](README.en.md)</sub>
 
 ---
 
@@ -28,24 +30,7 @@ Me interesa especialmente el análisis SOC, la respuesta a incidentes (DFIR), el
 
 ### 🛠️ Stack Tecnológico
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-268BCC?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estadísticas de GitHub
-
-<a href="https://github.com/Joseroman15">
-  <img src="https://streak-stats.demolab.com?user=Joseroman15&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</a>
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,java,php,linux,bash,kali,vscode,git,github)](https://github.com/Joseroman15)
 
 ---
 
