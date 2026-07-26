@@ -1,38 +1,58 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f&height=150&section=header&text=Hi,%20I'm%20Jos%C3%A9%20Rom%C3%A1n%20G%C3%B3mez&fontSize=40&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20%26%20Cybersecurity%20Specialist&descAlignY=55&descSize=20&fontColor=ffffff" />
-<p>📍 Málaga, Spain</p>
-<p>
-  <a href="https://linkedin.com/in/jose-roman-gomez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:joserg291204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<br>
-<h3>🚀 About Me</h3>
-<p>💻 Currently working as a <b>Web Developer</b> (PHP, JavaScript, MySQL).</p>
-<p>🛡️ Focused on <b>Defensive Security (Blue Team)</b>, SOC Analysis & DFIR.</p>
-<p>🎓 Background: <b>Higher Degree in Web Development (DAW)</b> + <b>Master's in Cybersecurity</b> + <b>Google Cybersecurity Cert</b>.</p>
-<p>🛠️ Building secure web applications and automation scripts for security operations.</p>
-<br>
-<h3>🛠️ Tech Stack & Security Tools</h3>
-<p><b>Development & Databases</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,vscode" alt="Dev Stack" />
-</p>
-<p><b>Cybersecurity, Systems & Automation</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali,py" alt="Security Stack" />
-</p>
-<br>
-<h3>📊 GitHub Stats</h3>
-<p>
-  <a href="https://github.com/Joseroman15">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joseroman15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Joseroman15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseroman15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-  </a>
-</p>
-</div>
+# ¡Hola! Soy José 👨🏻‍💻
 
+Desarrollador Full Stack Junior y Especialista en Ciberseguridad (Blue Team).
+
+---
+
+### 🚀 Sobre mí
+
+Actualmente trabajo como Desarrollador Web Full Stack en un entorno de producción real, participando en el mantenimiento y evolución de aplicaciones empresariales utilizando PHP, JavaScript y bases de datos MySQL.
+
+Mi verdadera pasión es la intersección entre el desarrollo de software y la **Ciberseguridad Defensiva**. Entiendo la tecnología en su totalidad: desde la configuración de redes y sistemas operativos, hasta la creación de código limpio y su posterior blindaje frente a posibles amenazas.
+
+Además de mi perfil como desarrollador, he consolidado mis conocimientos técnicos con un **Máster en Ciberseguridad** y el **Certificado Profesional de Ciberseguridad de Google**. Mi enfoque profesional consiste en construir software donde el buen rendimiento y la protección de los datos vayan de la mano desde la primera línea de código.
+
+Me interesa especialmente el análisis SOC, la respuesta a incidentes (DFIR), el hardening de sistemas y la automatización de operaciones de seguridad.
+
+**Áreas principales de experiencia:**
+
+* Desarrollo Web Full Stack (Frontend & Backend)
+* Ciberseguridad Defensiva y Análisis Blue Team (SOC / DFIR)
+* Gestión y Prevención de Vulnerabilidades
+* Hardening de Sistemas y Redes (Linux)
+* Automatización de procesos de seguridad (Bash / Python)
+* Diseño de Bases de Datos (SQL / MySQL)
+* Control de versiones con Git
+
+---
+
+### 🛠️ Stack Tecnológico
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-268BCC?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<a href="https://github.com/Joseroman15">
+  <img src="https://streak-stats.demolab.com?user=Joseroman15&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+</a>
+
+---
+
+### 📫 Contacto
+
+<a href="mailto:joserg291204@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/jose-roman-gomez"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <!--
 **Joseroman15/Joseroman15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
